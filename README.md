@@ -1,2 +1,2 @@
 # our_repo
-Test example for us from there!
+Test example from us from here and there!
