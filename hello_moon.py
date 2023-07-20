@@ -1,1 +1,1 @@
-print("hello moon")
+print("a new content")
